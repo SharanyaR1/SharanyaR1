@@ -2,7 +2,7 @@
 
 I'm Sharanya, a Computer Science Engineering student who learned more from Stack Overflow than college lectures. A developer who builds real, useful things. If it solves a problem (even the tiniest ones), I'm interested! The best part of development? When someone uses what I built and says *This actually helps!* - that moment is what keeps me coding. When not debugging, I'm painting murals across Bangalore with [Creatibeeti](https://www.instagram.com/creatibeeti/), adding color to our city's walls. Besides art, I also enjoy cooking and watching sitcoms. 
 
-## Tech Stack
+## Tech Stack I Use
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
