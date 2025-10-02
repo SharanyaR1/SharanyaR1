@@ -19,3 +19,5 @@ I'm Sharanya, a Computer Science Engineering student who learned more from Youtu
 [Code Canvas](https://marketplace.visualstudio.com/...) - Digital sticky notes for your code - because learning shouldn't mean drowning in comments.
 
 [Royal Public School](https://www.royalpublicschool.in/) - A functional website that serves real users.
+
+## Checkout my [Portfolio](https://sharanya-chandra.vercel.app/) and [Blog](https://blog-sharanya.hashnode.dev/)
